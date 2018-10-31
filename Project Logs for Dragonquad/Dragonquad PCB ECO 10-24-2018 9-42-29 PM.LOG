@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VBAT_SW Pin=C10-1
+Removed Pin From Net: NetName=VBAT_SW Pin=C11-1
+Removed Pin From Net: NetName=VBAT_SW Pin=C12-1
+Removed Pin From Net: NetName=VBAT_SW Pin=C13-1
+Removed Pin From Net: NetName=VBAT_SW Pin=D2-4
+Removed Pin From Net: NetName=VBAT_SW Pin=D3-4
+Removed Pin From Net: NetName=VBAT_SW Pin=D4-4
+Removed Pin From Net: NetName=VBAT_SW Pin=D5-4
+Added Pin To Net: NetName=VBAT Pin=C10-1
+Added Pin To Net: NetName=VBAT Pin=C11-1
+Added Pin To Net: NetName=VBAT Pin=C12-1
+Added Pin To Net: NetName=VBAT Pin=C13-1
+Added Pin To Net: NetName=VBAT Pin=D2-4
+Added Pin To Net: NetName=VBAT Pin=D3-4
+Added Pin To Net: NetName=VBAT Pin=D4-4
+Added Pin To Net: NetName=VBAT Pin=D5-4
+Added Member To Class: ClassName=U_PWMDriver Member=Component U2 PCA9685BS,118
+Added Member To Class: ClassName=B Member=Component U5_B (U5) DRV8850RGYR

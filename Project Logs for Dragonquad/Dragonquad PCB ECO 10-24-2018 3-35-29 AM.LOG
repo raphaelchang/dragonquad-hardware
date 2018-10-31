@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetU5_A_5 Pin=U8-3
+Removed Pin From Net: NetName=NetU5_A_6 Pin=U8-4
+Removed Pin From Net: NetName=NetU5_A_7 Pin=U8-5
+Removed Pin From Net: NetName=NetU5_A_8 Pin=U8-6
+Removed Pin From Net: NetName=NetU5_B_5 Pin=U8-7
+Removed Pin From Net: NetName=NetU5_B_6 Pin=U8-8
+Removed Pin From Net: NetName=NetU5_B_7 Pin=U8-9
+Removed Pin From Net: NetName=NetU5_B_8 Pin=U8-10
+Removed Pin From Net: NetName=NetU5_C_5 Pin=U8-12
+Removed Pin From Net: NetName=NetU5_C_6 Pin=U8-13
+Removed Pin From Net: NetName=NetU5_C_7 Pin=U8-14
+Removed Pin From Net: NetName=NetU5_C_8 Pin=U8-15
+Removed Pin From Net: NetName=NetU5_D_5 Pin=U8-16
+Removed Pin From Net: NetName=NetU5_D_6 Pin=U8-17
+Removed Pin From Net: NetName=NetU5_D_7 Pin=U8-18
+Removed Pin From Net: NetName=NetU5_D_8 Pin=U8-19
+Added Pin To Net: NetName=NetU5_A_8 Pin=U8-3
+Added Pin To Net: NetName=NetU5_A_7 Pin=U8-4
+Added Pin To Net: NetName=NetU5_A_6 Pin=U8-5
+Added Pin To Net: NetName=NetU5_A_5 Pin=U8-6
+Added Pin To Net: NetName=NetU5_B_8 Pin=U8-7
+Added Pin To Net: NetName=NetU5_B_7 Pin=U8-8
+Added Pin To Net: NetName=NetU5_B_6 Pin=U8-9
+Added Pin To Net: NetName=NetU5_B_5 Pin=U8-10
+Added Pin To Net: NetName=NetU5_C_8 Pin=U8-12
+Added Pin To Net: NetName=NetU5_C_7 Pin=U8-13
+Added Pin To Net: NetName=NetU5_C_6 Pin=U8-14
+Added Pin To Net: NetName=NetU5_C_5 Pin=U8-15
+Added Pin To Net: NetName=NetU5_D_8 Pin=U8-16
+Added Pin To Net: NetName=NetU5_D_7 Pin=U8-17
+Added Pin To Net: NetName=NetU5_D_6 Pin=U8-18
+Added Pin To Net: NetName=NetU5_D_5 Pin=U8-19
+Added Member To Class: ClassName=A Member=Component C15_A (C15) 0.1uF 100V 0402
+Added Member To Class: ClassName=D Member=Component C15_D (C15) 0.1uF 100V 0402
+Added Member To Class: ClassName=A Member=Component C16_A (C16) 0.1uF 6.3V 0402
+Added Member To Class: ClassName=D Member=Component C16_D (C16) 0.1uF 6.3V 0402
+Added Member To Class: ClassName=A Member=Component C17_A (C17) 10uF 6.3V 0402
+Added Member To Class: ClassName=D Member=Component C17_D (C17) 10uF 6.3V 0402
+Added Member To Class: ClassName=Dragonquad Member=Component JP2 MOTOR_A
+Added Member To Class: ClassName=Dragonquad Member=Component JP5 MOTOR_D
+Added Member To Class: ClassName=A Member=Component R6_A (R6) 1K 1% 0402
+Added Member To Class: ClassName=D Member=Component R6_D (R6) 1K 1% 0402
+Added Member To Class: ClassName=A Member=Component U5_A (U5) DRV8850RGYR
+Added Member To Class: ClassName=D Member=Component U5_D (U5) DRV8850RGYR

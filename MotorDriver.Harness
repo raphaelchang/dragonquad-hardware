@@ -1,0 +1,2 @@
+MotorOut=OUT+,OUT-
+MotorPWM=IN1H,IN1L,IN2H,IN2L
